@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="maven-smbms">
+    <output-path>$PROJECT_DIR$/out/artifacts/maven_smbms</output-path>
+    <root id="root">
+      <element id="archive" name="maven_smbms.jar">
+        <element id="module-output" name="maven-smbms" />
+      </element>
+    </root>
+  </artifact>
+</component>
